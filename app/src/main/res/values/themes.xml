@@ -1,0 +1,3 @@
+<resources>
+    <style name="Theme.Feladatok" parent="android:Theme.Material.Light.NoActionBar" />
+</resources>
